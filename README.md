@@ -1,5 +1,8 @@
-Hi 👋, I'm Andrew Hollas
-Web Developer from Temple Texas
+
+**Hi 👋, I'm Andrew Hollas
+**
+**Web Developer from Temple Texas**
+
 
 🔭 I’m currently working on: [Github](https://github.com/Andrewcoder43)
 
