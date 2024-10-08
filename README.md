@@ -1,6 +1,6 @@
 
-**Hi 👋, I'm Andrew Hollas
-**
+**Hi 👋, I'm Andrew Hollas**
+------------------------------------------------------
 **Web Developer from Temple Texas**
 
 
@@ -16,3 +16,6 @@
 
 📫 How to reach me [Email](andyhollas67@gmail.com)
 
+
+**Connect with me**:
+<i class="fab fa-linkedin-in"></i> 
