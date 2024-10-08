@@ -13,8 +13,3 @@ Web Developer from Temple Texas
 
 📫 How to reach me [Email](andyhollas67@gmail.com)
 
-
-
-Languages and Tools:
-bootstrap css3 firebase html5 javascript react reactnative redux sass
-
