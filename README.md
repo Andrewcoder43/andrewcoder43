@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Andrew Hollas
+Web Developer from Temple Texas
 
-<!--
-**Andrewcoder43/andrewcoder43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: [Github](https://github.com/Andrewcoder43)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning I Graduated in February 2024, and I am always looking for new things to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on A SolarPunk Themed Project.
+
+👨‍💻 All of my projects are available at [GitHub](https://github.com/Andrewcoder43).
+
+💬 Ask me about **Anything, I love to help!**
+
+📫 How to reach me [Email](andyhollas67@gmail.com)
+
+
+
+Languages and Tools:
+bootstrap css3 firebase html5 javascript react reactnative redux sass
+
