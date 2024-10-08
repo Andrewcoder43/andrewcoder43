@@ -17,8 +17,6 @@
 📫 How to reach me [Email](andyhollas67@gmail.com)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewcod43&label=Profile%20views&color=0e75b6&style=flat" alt="andrewcod43" /> </p>
 
 <h3 align="left">Connect with me:</h3>
