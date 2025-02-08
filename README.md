@@ -14,7 +14,7 @@
 
 💬 Ask me about **Anything, I love to help!**
 
-📫 How to reach me [Email](andyhollas67@gmail.com)
+📫 How to reach me [Email]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewcod43&label=Profile%20views&color=0e75b6&style=flat" alt="andrewcod43" /> </p>
